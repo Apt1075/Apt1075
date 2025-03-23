@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpit.kumar1075@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
