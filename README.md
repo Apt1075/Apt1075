@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arpit.kumar1075@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/arpit/Downloads/Arpit-Kumar-FlowCV-Resume-20250317%20(1).pdf](file:///C:/Users/arpit/Downloads/Arpit-Kumar-FlowCV-Resume-20250317%20(1).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
