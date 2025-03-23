@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apt1075&label=Profile%20views&color=0e75b6&style=flat" alt="apt1075" /> </p>
 
-- 🔭 I’m currently working on [BDE](https://itraceit.in/)
+- 🔭 I’m currently working on [Realtime Device track]
 
-- 🌱 I’m currently learning **django , ai agents**
+- 🌱 I’m currently learning **Devops , React.js**
 
-- 💬 Ask me about **Nodejs python**
+- 💬 Ask me about **Nodejs php**
 
 - 📫 How to reach me **arpit.kumar1075@gmail.com**
 
