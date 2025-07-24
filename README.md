@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Realtime Device track]
 
-- 🌱 I’m currently learning **Devops , React.js**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Nodejs php**
+- 💬 Ask me about **FastApi , Python**
 
 - 📫 How to reach me **arpit.kumar1075@gmail.com**
 
