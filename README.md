@@ -54,18 +54,22 @@
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-ec2.svg" alt="ec2" width="40" height="40"/>
-  </a>
+<!-- EC2 Alternative Icon -->
+<a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Arch_Amazon-EC2_48.svg" alt="Amazon EC2" width="40" height="40" />
+</a>
+
+<!-- Route 53 Alternative Icon -->
+<a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/aws/aws-icons/master/Arch_Amazon-Route-53_48.svg" alt="Amazon Route 53" width="40" height="40" />
+</a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="s3" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="lambda" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/route-53.svg" alt="route53" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
