@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Realtime Device Track**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and AI using Python**
 - 💬 Ask me about **FastAPI, Python**
 - 📫 Reach me at **arpit.kumar1075@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing)
