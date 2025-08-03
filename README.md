@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=apt1075&label=Profile%20views&color=0e75b6&style=flat" alt="apt1075" /> 
 </p>
 
-- 🔭 I’m currently working on **Realtime Device Track**
+- 🔭 I’m currently working on **Gen AI Project**
 - 🌱 I’m currently learning **DevOps and AI using Python**
 - 💬 Ask me about **FastAPI, Python**
 - 📫 Reach me at **arpit.kumar1075@gmail.com**
