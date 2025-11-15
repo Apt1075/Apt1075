@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=apt1075&label=Profile%20views&color=0e75b6&style=flat" alt="apt1075" /> 
 </p>
 
-- 🔭 I’m currently working on **Gen AI Project**
-- 🌱 I’m currently learning **DevOps and AI using Python**
+- 🔭 I’m currently working on **Deploy 3 tier application on aws**
+- 🌱 I’m currently learning **DevOps and AWS**
 - 💬 Ask me about **FastAPI, Python**
 - 📫 Reach me at **arpit.kumar1075@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing)
