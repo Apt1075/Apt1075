@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DevOps and AWS**
 - 💬 Ask me about **FastAPI, Python**
 - 📫 Reach me at **arpit.kumar1075@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing)
+- 📄 [My Resume]([https://drive.google.com/file/d/1R2LkQgE79GW5zbW04tCM7m6dYusvK4HB/view?usp=sharing](https://drive.google.com/file/d/1tt_SpWrM83hvXZz4Qmh51aT1iSHKf9Qb/view?usp=sharing))
 
 ---
 
