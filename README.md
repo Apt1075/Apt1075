@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes Learner ☸️</h3>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=apt1075&style=for-the-badge&color=blueviolet](https://drive.google.com/file/d/14fE2TxMe8br58dObv8WtD4MuDxoo4_od/view?usp=sharing)" />
+  <img src="https://drive.google.com/file/d/14fE2TxMe8br58dObv8WtD4MuDxoo4_od/view?usp=sharing" />
 </p>
 
 ---
