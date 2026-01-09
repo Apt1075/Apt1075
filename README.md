@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Arpit Kumar</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes Learner ☸️</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Automation</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Banner" />
-</p>
+</p> -->
 
 
 ---
