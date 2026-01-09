@@ -2,8 +2,9 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS | Automation | Kubernetes Learner ☸️</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/14fE2TxMe8br58dObv8WtD4MuDxoo4_od/view" />
+  <img src="assets/banner.png" alt="Banner" />
 </p>
+
 
 ---
 
@@ -22,7 +23,7 @@ I value **repeatable deployments, measurable system health, and secure cloud des
 ## 📄 Resume
 
 - 📥 **Download Resume:**  
-  👉 [Click here to view my resume](https://drive.google.com/file/d/1tt_SpWrM83hvXZz4Qmh51aT1iSHKf9Qb/view)
+  👉 [Click here to view my resume](https://drive.google.com/file/d/14fE2TxMe8br58dObv8WtD4MuDxoo4_od/view)
 
 ---
 
