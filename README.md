@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Arpit Kumar</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | Automation</h3>
 
-<!-- <p align="center">
-  <img src="assets/banner.png" alt="Banner" />
-</p> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apt1075&style=for-the-badge&color=blueviolet" />
+</p>
 
 
 ---
@@ -112,6 +112,14 @@ I value **repeatable deployments, measurable system health, and secure cloud des
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apt1075&theme=github-compact" />
+</p>
 
 ---
 
