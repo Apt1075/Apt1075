@@ -8,22 +8,22 @@
 
 ---
 
-## ☁️ Cloud & DevOps Overview
+## 💡 About Me
 
-I am a **Cloud & DevOps Engineer with 3+ years of hands-on experience** working with AWS infrastructure, CI/CD pipelines, and production systems.  
-My focus is on **automation, reliability, monitoring, and infrastructure consistency** across environments.
+Backend Engineer with strong experience in building scalable and high-performance systems using **PHP and Python**. Skilled in working with both relational and NoSQL databases such as **MySQL, MongoDB, and Cassandra**.
 
-I regularly work with **Linux systems, containerized applications, Infrastructure as Code, and observability tools** to reduce manual effort and improve system stability.  
-Currently, I am learning **Kubernetes and cloud-native** practices to better understand and manage **scalable container** workloads.
+Hands-on experience in designing real-time tracking systems, route optimization, alert systems, and logistics platforms for enterprise clients.
 
-I value **repeatable deployments, measurable system health, and secure cloud design** over ad-hoc operations.
+Proficient in **DevOps practices**, including CI/CD pipelines, containerization using Docker, and automation with Jenkins and GitHub Actions.
+
+Worked on large-scale projects for clients like **Mother Dairy, Blue Dart, DHL, Hindalco, and UP Government**, focusing on logistics tracking, fleet monitoring, and supply chain optimization.
 
 ---
 
 ## 📄 Resume
 
 - 📥 **Download Resume:**  
-  👉 [Click here to view my resume](https://drive.google.com/file/d/14fE2TxMe8br58dObv8WtD4MuDxoo4_od/view)
+  👉 [Click here to view my resume](https://drive.google.com/file/d/1NCfs_ilMor_ESdRxq4OivHG3oKVTb0pa/view?usp=sharing)
 
 ---
 
