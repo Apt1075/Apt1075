@@ -1,132 +1,205 @@
-<h1 align="center">👋 Hi, I'm Arpit Kumar</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Automation</h3>
+<h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
+
+<h3 align="center">
+Backend Engineer | Python | FastAPI | AWS | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apt1075&style=for-the-badge&color=blueviolet" />
+Building scalable backend systems, AI-powered applications, and cloud-native solutions.
 </p>
 
+<p align="center">
+  <a href="https://github.com/apt1075">
+    <img src="https://komarev.com/ghpvc/?username=apt1075&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-Backend Engineer with strong experience in building scalable and high-performance systems using **PHP and Python**. Skilled in working with both relational and NoSQL databases such as **MySQL, MongoDB, and Cassandra**.
+I'm a **Backend Engineer** passionate about designing scalable APIs, solving real-world problems, and building AI-powered applications.
 
-Hands-on experience in designing real-time tracking systems, route optimization, alert systems, and logistics platforms for enterprise clients.
-
-Proficient in **DevOps practices**, including CI/CD pipelines, containerization using Docker, and automation with Jenkins and GitHub Actions.
-
-Worked on large-scale projects for clients like **Mother Dairy, Blue Dart, DHL, Hindalco, and UP Government**, focusing on logistics tracking, fleet monitoring, and supply chain optimization.
-
----
-
-## 📄 Resume
-
-- 📥 **Download Resume:**  
-  👉 [Click here to view my resume](https://drive.google.com/file/d/1NCfs_ilMor_ESdRxq4OivHG3oKVTb0pa/view?usp=sharing)
+- 💼 Backend Developer at **Ingen Technology Pvt. Ltd.**
+- 🐍 Experienced in **Python, FastAPI, PHP, and Golang**
+- ☁️ Hands-on experience with **AWS, Docker, GitHub Actions, and REST APIs**
+- 🤖 Building AI applications using **OpenAI APIs, YOLOv8, and OpenCV**
+- 🚚 Developing enterprise logistics and fleet management platforms
+- 📡 Processing **150K+ GPS records/day** for **80,000+ connected vehicles**
+- 🌱 Currently learning **System Design, LLMs, RAG, and Kubernetes**
+- ⚡ I enjoy building high-performance backend systems that scale.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,go" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+- REST APIs
+- WebSocket
+- Microservices
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+- Cassandra
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" />
+</p>
+
+### AI & Computer Vision
+
+- OpenAI API
+- GPT Models
+- YOLOv8
+- OpenCV
+- NumPy
+
+---
+
+# 💼 Experience
+
+## Backend Developer
+
+**Ingen Technology Pvt. Ltd.**
+
+📅 **Nov 2022 – Present**
+
+### Highlights
+
+- 🚚 Built scalable backend services using Python, FastAPI, PHP, MongoDB, Cassandra, Redis, Docker, and AWS.
+- 📡 Process telemetry data from **80,000+ vehicles**.
+- 📈 Handle **150K+ GPS records every day** with optimized pipelines.
+- ⚡ Reduced backend processing latency by **40%**.
+- 📢 Generate **3000+ operational alerts daily**.
+- 🤖 Developed an AI-powered logistics chatbot using FastAPI and OpenAI.
+- 🔐 Built secure REST APIs for enterprise logistics platforms.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Logistics Assistant
+
+An AI-powered logistics assistant that enables natural language interaction with shipment, vehicle, and GPS data.
+
+### Features
+
+- Chat with logistics data
+- Shipment tracking
+- Vehicle analytics
+- Context-aware conversations
+- REST API integration
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `OpenAI` • `MongoDB`
+
+---
+
+## 🚛 AI-Based E-Lock Inspection System
+
+Computer Vision solution for validating electronic lock installation using AI.
+
+### Features
+
+- Object detection with YOLOv8
+- Lock alignment analysis
+- Tilt angle calculation
+- Real-time FastAPI inference
+
+**Tech Stack**
+
+`Python` • `YOLOv8` • `OpenCV` • `FastAPI`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apt1075&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apt1075&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apt1075&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Highlights
+
+- 🚀 2+ Years of Backend Development Experience
+- 🚚 Enterprise Fleet Management Solutions
+- 📡 80K+ Connected Vehicles
+- 📈 150K+ GPS Records Processed Daily
+- ⚡ 40% Backend Performance Improvement
+- 🤖 AI Applications using OpenAI & Computer Vision
+- ☁️ AWS Cloud Experience
+
+---
+
+# 🎓 Education
+
+**Master of Computer Applications (MCA)**
+
+Dr. A. P. J. Abdul Kalam Technical University
+
+2022 – 2024
+
+---
+
+**Bachelor of Computer Applications (BCA)**
+
+Chhatrapati Shahu Ji Maharaj University
+
+2019 – 2022
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/apt1075" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aws.arpit25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="mailto:aws.arpit25@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/arpit-kumar">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/apt1075">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### 👨‍💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💡 "Build scalable systems. Solve real-world problems. Keep learning."
 
----
+⭐ If you like my work, consider following my GitHub profile!
 
-### ☁️ Cloud Platform
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-
----
-
-### 🔁 DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_(Learning)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-
-
----
-
-### 🧱 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-
----
-
-### ☁️ AWS Core Services
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![ALB](https://img.shields.io/badge/Application_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-
----
-
-### 📊 Monitoring & Observability
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_/_Loki-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
----
-
-### 🔐 Security & DevSecOps (Foundational)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-- Enforce **least-privilege access** using IAM roles and policies  
-- Secure application secrets with **AWS Secrets Manager**  
-- Scan container images for vulnerabilities using **Trivy**  
-- Perform **code quality and security analysis** with SonarQube in CI pipelines  
-
----
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apt1075&theme=github-compact" />
-</p>
-
----
-
-## ⚙️ Engineering Mindset
-
-> *Automate what repeats,  
-> observe what matters,  
-> and continuously refine what runs in production.*
-
-⭐ Thanks for visiting — focused on building **secure, reliable, and scalable cloud systems**.
+</div>
