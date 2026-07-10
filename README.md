@@ -21,7 +21,7 @@ Building scalable backend systems, AI-powered applications, and cloud-native sol
 I'm a **Backend Engineer** passionate about designing scalable APIs, solving real-world problems, and building AI-powered applications.
 
 - 💼 Backend Developer at **Ingen Technology Pvt. Ltd.**
-- 🐍 Experienced in **Python, FastAPI,NodeJs, PHP,JS, and Golang**
+- 🐍 Experienced in **Python, FastAPI, NodeJs, PHP, JS and Golang**
 - 🐍 Experienced in **Python, FastAPI, PHP, and Golang**
 - ☁️ Hands-on experience with **AWS, Docker, GitHub Actions, and REST APIs**
 - 🤖 Building AI applications using **OpenAI APIs, YOLOv8, and OpenCV**
@@ -177,7 +177,6 @@ Chhatrapati Shahu Ji Maharaj University
 </a>
 
 <a href="https://linkedin.com/in/Apt1075">
-<a href="https://linkedin.com/in/arpit-kumar">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
