@@ -22,7 +22,6 @@ I'm a **Backend Engineer** passionate about designing scalable APIs, solving rea
 
 - 💼 Backend Developer at **Ingen Technology Pvt. Ltd.**
 - 🐍 Experienced in **Python, FastAPI, NodeJs, PHP, JS and Golang**
-- 🐍 Experienced in **Python, FastAPI, PHP, and Golang**
 - ☁️ Hands-on experience with **AWS, Docker, GitHub Actions, and REST APIs**
 - 🤖 Building AI applications using **OpenAI APIs, YOLOv8, and OpenCV**
 - 🚚 Developing enterprise logistics and fleet management platforms
