@@ -139,7 +139,7 @@ Computer Vision solution for validating electronic lock installation using AI.
 
 # 🏆 Highlights
 
-- 🚀 2+ Years of Backend Development Experience
+- 🚀 3+ Years of Backend Development Experience
 - 🚚 Enterprise Fleet Management Solutions
 - 📡 80K+ Connected Vehicles
 - 📈 150K+ GPS Records Processed Daily
